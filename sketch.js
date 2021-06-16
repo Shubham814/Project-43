@@ -110,7 +110,7 @@ function draw() {
 
   fill(255);
   textSize(25);
-  text("Score: " + score, width-100,20);
+  text("Score: " + score, width-200,20);
 }
 
 
